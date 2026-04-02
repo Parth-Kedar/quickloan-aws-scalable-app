@@ -111,7 +111,7 @@ project/
 
 ---
 
-## 📸 Screenshots (Add Here)
+##   Screenshots (Add Here)
 
 * EC2 Instance Running
 * RDS Configuration
