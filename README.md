@@ -111,14 +111,10 @@ project/
 
 ---
 
-<<<<<<< HEAD
-##   Screenshots (Add Here)
-=======
 ##  Screenshots (Add Here)
 
 * CloudFormation setup
 ![CloudFormation](screenshots/cloudformation.png)
->>>>>>> 085e9ba ( screenshots and architecture diagram)
 
 * EC2 Instance Running
 ![EC2](screenshots/ec2.png)
