@@ -135,7 +135,7 @@ project/
 ![ASG](screenshots/asg.png)
 
 * Application Output
-![App](screenshots/app.png)
+![App](screenshots/WebApp.png)
 
 ##   Architecture Diagram
 
