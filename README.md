@@ -111,12 +111,39 @@ project/
 
 ---
 
+<<<<<<< HEAD
 ##   Screenshots (Add Here)
+=======
+##  Screenshots (Add Here)
+
+* CloudFormation setup
+![CloudFormation](screenshots/cloudformation.png)
+>>>>>>> 085e9ba ( screenshots and architecture diagram)
 
 * EC2 Instance Running
+![EC2](screenshots/ec2.png)
+
+* VPC setup
+![VPC](screenshots/vpc.png)
+
 * RDS Configuration
+![RDS](screenshots/rds.png)
+
+* S3 setup
+![S3](screenshots/s3.png)
+
 * Load Balancer
+![ALB](screenshots/alb.png)
+
 * Auto Scaling Group
+![ASG](screenshots/asg.png)
+
+* Application Output
+![App](screenshots/app.png)
+
+##   Architecture Diagram
+
+![Architecture](architecture-diagram.png)
 
 ---
 
